@@ -1,7 +1,7 @@
 
 # Auto Editor Easy
 
-[![Releases](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://github.com/dodobakk/Auto-Editor-Easy/releases/tag/auto-editor) 
+[![Releases](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://github.com/dodobakk/Auto-Editor-Easy/releases) 
 
 Bu auto-editor ile yapılmıştır. Yani onu kolaylaştıran bir proje. İstersen onada bakabilirsin.
 
